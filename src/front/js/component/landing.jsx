@@ -8,7 +8,7 @@ export function LandingPage () {
                 <h1>
                     Demo Landing Page
                 </h1>
-                <img className="rounded" src="https://qbatu.net/wp-content/uploads/2023/01/jwt-1.png" alt="JWT Auth Logo" width="600" height="200" style={{objectFit:"none"}}></img>
+                <img className="rounded" src="https://jwt.io/img/logo-asset.svg" alt="JWT Auth Logo" width="600" height="200" style={{objectFit:"none"}}></img>
                 <div className="d-flex align-items-center justify-content-center flex-column">
                     <h5 className="m-3">¿Eres nuevo en la plataforma?</h5>
                     <Link to="/signup">
